@@ -1,5 +1,5 @@
 p {
-    font-size: 64px;
+    font-size: 37px;
     line-height: 1.0625;
     font-weight: 600;
     letter-spacing: -.009em;
@@ -10,7 +10,7 @@ p {
     -webkit-background-clip: text;
 }
 .sectionMain {
-    padding: 60px;
+    padding: 10px;
 }
 button {
     color: white;
@@ -22,4 +22,27 @@ button {
     height: 46px;
 
 }
+/*media queries*/
+/*Tablette*/
+@media screen and (min-width: 425px) {
+    p {
+        font-size: 64px;
+        line-height: 1.0625;
+        font-weight: 600;
+    }
 
+}
+
+/*Ecran Moyen desktop*/
+
+@media screen and (min-width: 768px) {
+
+
+}
+
+/*Ecran Large desktop*/
+
+@media screen and (min-width: 1200px) {
+
+
+}
