@@ -7,13 +7,12 @@ import "./Header.css"
 const Header = () => {
     return (
        <header>
-           <h3 className="titreNameHeader">Job stéphane</h3>
+           <h2 className="titreNameHeader">Job stéphane</h2>
            <h1 className="text-light titreHeader">
                Développeur Web
                <br/>
                Full-stack
            </h1>
-           <Button color="secondary">START</Button>{' '}
 
        </header>
     );

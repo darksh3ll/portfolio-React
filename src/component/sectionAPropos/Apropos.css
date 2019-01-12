@@ -1,0 +1,25 @@
+p {
+    font-size: 64px;
+    line-height: 1.0625;
+    font-weight: 600;
+    letter-spacing: -.009em;
+    background-color: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-background-clip: text;
+}
+.sectionMain {
+    padding: 60px;
+}
+button {
+    color: white;
+    padding-top: 0px;
+    padding-right: 23px;
+    padding-bottom: 0px;
+    padding-left: 23px;
+    background-color: transparent;
+    height: 46px;
+
+}
+
