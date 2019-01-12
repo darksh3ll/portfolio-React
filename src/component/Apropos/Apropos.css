@@ -1,5 +1,5 @@
-p {
-    font-size: 37px;
+.mainContent {
+    font-size: 2.5em;
     line-height: 1.0625;
     font-weight: 600;
     letter-spacing: -.009em;
@@ -9,24 +9,29 @@ p {
     -webkit-background-clip: text;
     -webkit-background-clip: text;
 }
+
 .sectionMain {
-    padding: 10px;
+    padding: 20px;
 }
+
 button {
-    color: white;
-    padding-top: 0px;
-    padding-right: 23px;
-    padding-bottom: 0px;
-    padding-left: 23px;
-    background-color: transparent;
+    padding: 0px 33px 0px 33px;
+    border-radius:46px !important;
     height: 46px;
+    color: white;
+    border: 2px solid #ffffff;
+    background-color: transparent;
+    opacity: 0.5;
+}
+
+button:hover{
 
 }
 /*media queries*/
 /*Tablette*/
 @media screen and (min-width: 425px) {
-    p {
-        font-size: 64px;
+    .mainContent {
+        font-size: 4em;
         line-height: 1.0625;
         font-weight: 600;
     }

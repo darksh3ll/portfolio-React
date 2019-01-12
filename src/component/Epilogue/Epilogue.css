@@ -1,0 +1,37 @@
+.EpilogueContent {
+    font-size: 2.5em;
+    line-height: 1.0625;
+    font-weight: 600;
+    letter-spacing: -.009em;
+    background-color: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-background-clip: text;
+    text-align: center;
+}
+
+/*media queries*/
+/*Tablette*/
+@media screen and (min-width: 425px) {
+    .EpilogueContent {
+        font-size: 4em;
+        line-height: 1.0625;
+        font-weight: 600;
+    }
+
+}
+
+/*Ecran Moyen desktop*/
+
+@media screen and (min-width: 768px) {
+
+
+}
+
+/*Ecran Large desktop*/
+
+@media screen and (min-width: 1200px) {
+
+
+}

@@ -1,0 +1,9 @@
+.techno {
+    font-size:30px !important;
+}
+
+.technologies {
+    background: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.1) 200%), url("../assets/tigre.jpg") center;
+   background-size: cover;
+    height:auto
+}
