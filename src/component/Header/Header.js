@@ -14,7 +14,7 @@ const Header = () => {
                Full-stack
            </h1>
 
-           <button >Contact</button>
+           <button >Télécharger mon cv</button>
 
        </header>
     );
