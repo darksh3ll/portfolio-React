@@ -11,7 +11,7 @@ const Apropos = () => {
                 <br/>J'ai choisi Javascript/React pour son intéractivité mais ce n'est que le
                 début tous les languages sont attirants et a découvrir.
                 <br/>
-                Il n'y a pas d'age pour enrechir ses connaissances
+                Il n'y a pas d'age pour enrichir ses connaissances
             </p>
             <a href="https://wildcodeschool.fr/" target="_blank" rel="noreferrer noopener" >
                 <button>En savoir plus</button>
