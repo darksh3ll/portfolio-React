@@ -1,4 +1,26 @@
 .titreSection {
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 400;
+}
+
+@media screen and (min-width: 425px) {
+    .titreSection {
+        font-size: 60px;
+        font-weight: 400;
+    }
+
+}
+
+/*Ecran Moyen desktop*/
+
+@media screen and (min-width: 768px) {
+
+
+}
+
+/*Ecran Large desktop*/
+
+@media screen and (min-width: 1200px) {
+
+
 }

@@ -1,6 +1,4 @@
 import React from 'react';
-import { Button } from 'reactstrap';
-
 import "./Header.css"
 
 
@@ -11,10 +9,9 @@ const Header = () => {
            <h1 className="text-light titreHeader">
                Développeur Web
                <br/>
-               Full-stack
+               Full Stack
            </h1>
-
-           <button >Télécharger mon cv</button>
+           <a href="http://www.stephanejob.com/cvStephaneJob.pdf"target="_blank" rel="noreferrer noopener" ><button >Télécharger mon cv</button></a>
 
        </header>
     );
