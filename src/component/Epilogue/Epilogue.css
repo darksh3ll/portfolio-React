@@ -11,11 +11,23 @@
     text-align: center;
 }
 
+.info {
+    border: none;
+}
+.savoirPlus {
+    padding-left: 5px !important;
+}
+.parcours {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
 /*media queries*/
 /*Tablette*/
 @media screen and (min-width: 425px) {
     .EpilogueContent {
-        font-size: 4em;
+        font-size: 2.5em;
         line-height: 1.0625;
         font-weight: 600;
     }

@@ -1,0 +1,44 @@
+.boxParcours {
+    background-color: black;
+    min-height: 100vh;
+}
+
+.moi {
+    width: 400px;
+}
+
+.stephane {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    flex-direction: column;
+    width: 80%;
+    margin:auto;
+}
+
+.arrow {
+    color: white;
+    font-size: 2.5em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.boxArrow {
+    width: 100%;
+    text-align: center;
+}
+
+.titreContent {
+    color: #6bf;
+}
+
+.box {
+    padding-top: 80px;
+}
+
+.content {
+    font-size: 1.5em;
+    line-height: 1.5em;
+    color: white;
+}

@@ -11,7 +11,8 @@ const Header = () => {
                <br/>
                Full Stack
            </h1>
-           <a href="http://www.stephanejob.com/cvStephaneJob.pdf"target="_blank" rel="noreferrer noopener" ><button >Télécharger mon cv</button></a>
+           <a href="http://www.stephanejob.com/cvStephaneJob.pdf"target="_blank" rel="noreferrer noopener" ><button >Télécharger mon cv <i
+               className="fas fa-download"></i> </button></a>
 
        </header>
     );
